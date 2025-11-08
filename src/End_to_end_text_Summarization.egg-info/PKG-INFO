@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: End-to-end-text-Summarization
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/madhumita69/End-to-end-text-Summarization
+Author: madhumita69
+Author-email: madhumitaguha500@gmail.com
+Project-URL: Bug Tracker, https://github.com/madhumita69/End-to-end-text-Summarization/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
